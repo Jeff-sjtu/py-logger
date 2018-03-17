@@ -1,6 +1,12 @@
 A simple and convenient logger wrapper.
 一个简单的logger实现
 
+# Installation
+``` bash
+cd ${py-logger}
+python setup.py install
+```
+
 # Usage
 ``` python
 from logger import CCLogger
